@@ -37,3 +37,15 @@ monitors:
     url: 'https://nodeh.555000777.xyz/'
     method: GET
     expectStatus: 200
+    
+  - id: renthibiny.ru
+    name: renthibiny.ru
+    url: 'https://renthibiny.ru/'
+    method: GET
+    expectStatus: 200
+
+  - id: netru.555000777.xyz
+    name: netru.555000777.xyz
+    url: 'https://netru.555000777.xyz/'
+    method: GET
+    expectStatus: 200
