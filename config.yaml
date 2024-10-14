@@ -25,7 +25,7 @@ monitors:
 
   - id: nodehh
     name: nodehh
-    url: 'https://nodeh.555000777.xyz/'
+    url: 'https://nodehh.555000777.xyz/'
     method: GET
     expectStatus: 200
     
