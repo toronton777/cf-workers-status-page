@@ -22,7 +22,13 @@ monitors:
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
-
+    
+  - id: best-freebie
+    name: best-freebie
+    url: 'https://best-freebie.com/'
+    method: GET
+    expectStatus: 200
+    
   - id: nodehh
     name: nodehh
     url: 'https://nodehh.555000777.xyz/'
