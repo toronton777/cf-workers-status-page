@@ -16,8 +16,7 @@ settings:
 
 monitors:
   - id: ratrating
-    name: ratrating.com
-    description: 'ratrating.com'
+    name: ratrating
     url: 'https://ratrating.com/'
     method: GET
     expectStatus: 200
