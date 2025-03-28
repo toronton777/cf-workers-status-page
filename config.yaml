@@ -15,13 +15,12 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: ratrating.com
-    name: ratrating.com
+  - id: ratrating
+    name: ratrating
     description: 'ratrating.com'
     url: 'https://ratrating.com/'
     method: GET
     expectStatus: 200
-    linkable: true # allows the title to be a link, default=true
     
   - id: best-freebie
     name: best-freebie
