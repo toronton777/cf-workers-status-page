@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: ratrating
-    name: ratrating_com
+    name: ratrating.com
     description: 'ratrating.com'
     url: 'https://ratrating.com/'
     method: GET
